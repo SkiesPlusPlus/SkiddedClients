@@ -3,7 +3,7 @@
 
 #### Gapple Client :- Eric Golde Base
 #### Cloud Client :- Quicks Base
-#### Glacier Client :- Quicks Base + Erics base + OMA's "Woolware"
+#### Glacier Client :- Quicks Base + Erics base + xAsulo's "Woolware"
 #### Infinite Client :- Eric Golde Base
 #### Frost Client :- final leak was just a eric base idk about now, 100% sure its still the same
 #### River Client :- eric base by a guy called BlueDD (fizzify sent the code)
