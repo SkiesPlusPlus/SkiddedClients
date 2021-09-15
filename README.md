@@ -10,7 +10,7 @@
 ###### Dragon Client (such speed's 300k paste) :- idek what to put it here its obvs pasted by Benz tard (forge based btw)
 ###### Speeder Client :- woah 2 suchspeed pastes (Eric Base)
 ###### Beast Client :- skidded from another skidded client (Ivy Client) for yt video (uses Eric Base)- https://www.youtube.com/watch?v=pIUqNg3VMRo
-
+###### Ares Client 2.0/3.0 :- https://github.com/xAsulo/Ares-3.0 "lol?"
 
 #### Tutorials Used
 - Erics Tutorial :- https://www.youtube.com/watch?v=gNBFMTE91hU
