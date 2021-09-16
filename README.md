@@ -11,10 +11,15 @@
 ###### Speeder Client :- woah 2 suchspeed pastes (Eric Base)
 ###### Beast Client :- skidded from another skidded client (Ivy Client) for yt video (uses Eric Base)- https://www.youtube.com/watch?v=pIUqNg3VMRo
 ###### Ares Client 2.0/3.0 :- https://github.com/xAsulo/Ares-3.0 "lol?"
+###### Henceforth Client / "New Mars" Client :- Eric Base owned by a guy who bines btc and buy hacked clients 
 
-#### Tutorials Used
+
+#### Tutorials Used 
 - Erics Tutorial :- https://www.youtube.com/watch?v=gNBFMTE91hU
 - Quicks Tutorial :- https://www.youtube.com/watch?v=v4F4S8VDExU
+
+#### Skidded Tutorials
+- https://www.youtube.com/watch?v=-LxlmEyqAzQ legit my guy 1:1 skidded Eric Golde (also with the bugs eric mentioned how to fix in his discord lol)
 
 #### Sources
 -  Some sources are available in https://github.com/ClientPlayground
