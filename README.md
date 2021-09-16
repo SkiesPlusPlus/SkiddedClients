@@ -19,7 +19,8 @@
 - Quicks Tutorial :- https://www.youtube.com/watch?v=v4F4S8VDExU
 
 #### Skidded Tutorials
-- https://www.youtube.com/watch?v=-LxlmEyqAzQ legit my guy 1:1 skidded Eric Golde (also with the bugs eric mentioned how to fix in his discord lol)
+- https://www.youtube.com/watch?v=-LxlmEyqAzQ legit my guy 1:1 skidded Eric Golde (also with the bugs eric mentioned how to fix in his discord lol) 
+        https://www.youtube.com/watch?v=jYzV59LVfbY and selling those skids for real money
 
 #### Sources
 -  Some sources are available in https://github.com/ClientPlayground
