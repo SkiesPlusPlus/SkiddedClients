@@ -1,5 +1,7 @@
 
-    | Name          | Client Base used & info
+#### Skidded Clients
+
+| Name          | Client Base used & info
 
 ###### Gapple Client :- Eric Golde Base
 ###### Cloud Client :- Quicks Base
@@ -12,7 +14,7 @@
 ###### Beast Client :- skidded from another skidded client (Ivy Client) for yt video (uses Eric Base)- https://www.youtube.com/watch?v=pIUqNg3VMRo
 ###### Ares Client 2.0/3.0 :- https://github.com/xAsulo/Ares-3.0 "lol?"
 ###### Henceforth Client / "New Mars" Client :- Eric Base owned by a guy who mines btc and buy hacked clients 
-
+###### Devilz Client :- SriLankas 1st client, sad to see the "first client" is a template 😶
 
 #### Tutorials Used 
 - Erics Tutorial :- https://www.youtube.com/watch?v=gNBFMTE91hU
