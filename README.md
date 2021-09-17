@@ -31,5 +31,5 @@
 - otherwise ill upload it here 
 
 #### how i found if its skidded?!?!!
-- i go through the source code since since most of the owners dont know how to deobf or they use superblaurbee27s obf
+- i go through the source code since most of the dev (in above clients) dont know how to deobf or they use superblaurbee27s obf
 - *IF I FOUND ANYTHING THAT SEEMS UNIQUE I WILL NOT ADD IT SINCE I CAN GET A IDEA IF HE IS A SKID OR NOT*
