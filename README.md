@@ -11,7 +11,7 @@
 ###### Speeder Client :- woah 2 suchspeed pastes (Eric Base)
 ###### Beast Client :- skidded from another skidded client (Ivy Client) for yt video (uses Eric Base)- https://www.youtube.com/watch?v=pIUqNg3VMRo
 ###### Ares Client 2.0/3.0 :- https://github.com/xAsulo/Ares-3.0 "lol?"
-###### Henceforth Client / "New Mars" Client :- Eric Base owned by a guy who bines btc and buy hacked clients 
+###### Henceforth Client / "New Mars" Client :- Eric Base owned by a guy who mines btc and buy hacked clients 
 
 
 #### Tutorials Used 
