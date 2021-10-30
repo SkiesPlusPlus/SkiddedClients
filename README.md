@@ -17,6 +17,7 @@
 ###### Devilz Client :- SriLankas 1st client, sad to see the "first client" is a template 😶
 ###### Sea Client :- woah another client for youtube , i wonder if its skidded 🤔, oh it is (Eric Base and QuickDaffy's Base)
 ###### Ivy Client :- uses eric base and devs dont know how to refactor the package name
+###### Prority Client :- eric base by a literaly incest porn viewer
 
 #### Tutorials Used 
 - Erics Tutorial :- https://www.youtube.com/watch?v=gNBFMTE91hU
